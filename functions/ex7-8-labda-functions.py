@@ -36,3 +36,4 @@ print((lambda s: "ra" in s)(input()))
 
 digs = list(map(int, input().split()))
 print(digs)
+
