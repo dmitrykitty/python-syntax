@@ -57,4 +57,4 @@ def fib(n):
 # slower = test_time(rec_fib)
 # faster = test_time(fib)
 
-print(rec_fib(30), fib(30))
+print(rec_fib(40), fib(40))
